@@ -1,0 +1,8 @@
+C:\Users\Dell 15\source\repos\Agnie.Domain\bin\Debug\netcoreapp2.1\Agnie.Domain.deps.json
+C:\Users\Dell 15\source\repos\Agnie.Domain\bin\Debug\netcoreapp2.1\Agnie.Domain.dll
+C:\Users\Dell 15\source\repos\Agnie.Domain\bin\Debug\netcoreapp2.1\Agnie.Domain.pdb
+C:\Users\Dell 15\source\repos\Agnie.Domain\obj\Debug\netcoreapp2.1\Agnie.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell 15\source\repos\Agnie.Domain\obj\Debug\netcoreapp2.1\Agnie.Domain.AssemblyInfo.cs
+C:\Users\Dell 15\source\repos\Agnie.Domain\obj\Debug\netcoreapp2.1\Agnie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell 15\source\repos\Agnie.Domain\obj\Debug\netcoreapp2.1\Agnie.Domain.dll
+C:\Users\Dell 15\source\repos\Agnie.Domain\obj\Debug\netcoreapp2.1\Agnie.Domain.pdb
